@@ -17,3 +17,12 @@
 2025-07-02 23:53:24,808 - collector_logs.criptopipe.api_base - INFO - Dados da API da MB coletados com sucesso
 2025-07-02 23:53:24,810 - collector_logs.criptopipe.api_base - INFO - Dados da API da Coinbase coletados com sucesso
 2025-07-02 23:53:24,995 - collector_logs.criptopipe.api_base - INFO - Dados da API da Binance coletados com sucesso
+2025-07-03 19:08:05,189 - collector_logs.criptopipe.api_base - INFO - Dados da API da coletados com sucesso
+2025-07-03 19:08:35,741 - collector_logs.criptopipe.api_base - INFO - Dados da API da coletados com sucesso
+2025-07-03 19:10:31,853 - collector_logs.criptopipe.api_base - INFO - Dados da API da https://api.coinbase.com/v2/prices/BTC-BRL/spot coletados com sucesso
+2025-07-03 19:12:06,753 - collector_logs.criptopipe.api_base - INFO - Dados da API da https://api.coinbase.com/v2/prices/BTC-BRL/spot coletados com sucesso
+2025-07-03 19:19:23,988 - collector_logs.criptopipe.api_base - INFO - Dados da API da https://www.mercadobitcoin.net/api/BTC/ticker coletados com sucesso
+2025-07-03 19:19:24,217 - collector_logs.criptopipe.api_base - INFO - Dados da API da https://api.coinbase.com/v2/prices/BTC-BRL/spot coletados com sucesso
+2025-07-03 19:22:45,975 - collector_logs.criptopipe.api_base - INFO - Dados da API da https://api.coinbase.com/v2/prices/BTC-BRL/spot coletados com sucesso
+2025-07-03 19:22:46,101 - collector_logs.criptopipe.api_base - INFO - Dados da API da https://www.mercadobitcoin.net/api/BTC/ticker coletados com sucesso
+2025-07-03 19:22:46,262 - collector_logs.criptopipe.api_base - INFO - Dados da API da https://api.binance.com/api/v3/ticker/price?symbol=BTCBRL coletados com sucesso

@@ -17,7 +17,7 @@ Docker (opcional para ambiente local)
 🔹 Fase 1 – Setup e Preparação (1 a 2 dias)
 
 ✅ Criar repositório no GitHub	Nome: criptopipe
-✅ Criar estrutura de pastas	Ver estrutura abaixo
+✅ Criar estrutura de pastas	
 ✅ Inicializar Poetry + pyproject.toml	Definir dependências iniciais (aiohttp, pandas, asyncio, motor para MongoDB, psycopg2-binary)
 ✅ Setup de banco de dados	Subir PostgreSQL e MongoDB via Docker ou local
 ✅ Criar .env com configs	Armazenar URIs e segredos

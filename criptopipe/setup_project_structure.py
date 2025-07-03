@@ -14,6 +14,8 @@ files = {
     "src/criptopipe/etl/__init__.py": "",
     "src/criptopipe/etl/extractor/__init__.py": "",
     "src/criptopipe/etl/extractor/api_base.py": "# Base HTTP client using aiohttp\n",
+    "src/criptopipe/etl/extractor/api_mercado.py": "# Extractor for Mercado Bitcoin API\n",
+    "src/criptopipe/etl/extractor/api_binance.py": "# Extractor for Binance API\n",
     "src/criptopipe/etl/transformer/__init__.py": "",
     "src/criptopipe/etl/transformer/clean_data.py": "# Data cleaning and transformation\n",
     "src/criptopipe/etl/loader/__init__.py": "",
