@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "criptopipe"
+version = "0.1.0"
+description = "Pipeline ETL assíncrono com Python, usando múltiplas APIs, persistência em PostgreSQL + NoSQL e dashboard final para visualização."
+authors = ["Rafael Alvarenga <devrafaelalvarenga@gmail.com>"]
+readme = "README.md"
+packages = [{include = "criptopipe", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+aiohttp = "^3.12.13"
+certifi = "^2025.6.15"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

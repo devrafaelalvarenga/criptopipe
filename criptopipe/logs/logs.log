@@ -1,0 +1,19 @@
+2025-07-02 23:38:13,115 - collector_logs.criptopipe.api_base - INFO - Iniciando a coleta de dados da API da Coinbase
+2025-07-02 23:47:42,483 - collector_logs.criptopipe.api_base - INFO - Iniciando a coleta de dados da API da Coinbase
+2025-07-02 23:47:42,485 - collector_logs.criptopipe.api_base - INFO - Iniciando a coleta de dados da API da Binance
+2025-07-02 23:47:42,486 - collector_logs.criptopipe.api_base - INFO - Iniciando a coleta de dados da API da MB
+2025-07-02 23:47:42,823 - collector_logs.criptopipe.api_base - INFO - Dados da API da MB coletados com sucesso
+2025-07-02 23:47:42,832 - collector_logs.criptopipe.api_base - INFO - Dados da API da Coinbase coletados com sucesso
+2025-07-02 23:47:42,919 - collector_logs.criptopipe.api_base - INFO - Dados da API da Binance coletados com sucesso
+2025-07-02 23:48:44,824 - collector_logs.criptopipe.api_base - INFO - Iniciando a coleta de dados da API da Coinbase
+2025-07-02 23:48:44,825 - collector_logs.criptopipe.api_base - INFO - Iniciando a coleta de dados da API da Binance
+2025-07-02 23:48:44,826 - collector_logs.criptopipe.api_base - INFO - Iniciando a coleta de dados da API da MB
+2025-07-02 23:48:45,073 - collector_logs.criptopipe.api_base - INFO - Dados da API da MB coletados com sucesso
+2025-07-02 23:48:45,109 - collector_logs.criptopipe.api_base - INFO - Dados da API da Coinbase coletados com sucesso
+2025-07-02 23:48:45,201 - collector_logs.criptopipe.api_base - INFO - Dados da API da Binance coletados com sucesso
+2025-07-02 23:53:24,533 - collector_logs.criptopipe.api_base - INFO - Iniciando a coleta de dados da API da Coinbase
+2025-07-02 23:53:24,536 - collector_logs.criptopipe.api_base - INFO - Iniciando a coleta de dados da API da Binance
+2025-07-02 23:53:24,537 - collector_logs.criptopipe.api_base - INFO - Iniciando a coleta de dados da API da MB
+2025-07-02 23:53:24,808 - collector_logs.criptopipe.api_base - INFO - Dados da API da MB coletados com sucesso
+2025-07-02 23:53:24,810 - collector_logs.criptopipe.api_base - INFO - Dados da API da Coinbase coletados com sucesso
+2025-07-02 23:53:24,995 - collector_logs.criptopipe.api_base - INFO - Dados da API da Binance coletados com sucesso
