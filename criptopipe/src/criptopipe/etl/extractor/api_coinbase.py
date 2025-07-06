@@ -7,4 +7,4 @@ class CoinbaseFetcher(ApiClient):
         super().__init__(url_coinbase)
 
     async def fetche_coinbase(self) -> dict:
-        return await self.get_api()
+        return await self.get_api(source='Coinbase')

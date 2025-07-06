@@ -7,4 +7,4 @@ class MercadoBitcoinFetcher(ApiClient):
         super().__init__(url_mb)
 
     async def fetche_mercadobitcoin(self) -> dict:
-        return await self.get_api()
+        return await self.get_api(source='MercadoBitcoin')

@@ -7,4 +7,4 @@ class BinanceFetcher(ApiClient):
         super().__init__(url_binance)
 
     async def fetche_binance(self) -> dict:
-        return await self.get_api()
+        return await self.get_api(source='Binance')

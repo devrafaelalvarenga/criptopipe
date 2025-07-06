@@ -21,7 +21,7 @@ class ApiClient:
     def __init__(self, url: str = ''):
         self.url = url
 
-    async def get_api(self) -> dict:
+    async def get_api(self, source: str) -> dict:
         base_url: str = self.url
         try:
             async with aiohttp.ClientSession() as session:
@@ -30,10 +30,12 @@ class ApiClient:
                         data = await response.json()
                         if 'metadata' not in data:
                             data['metadata'] = {}
+                            data['source'] = f'{source}'
                             data['metadata']['timestamp'] = datetime.now().isoformat()
                             logger.info(
                                 f'Dados da API da {base_url} coletados com sucesso')
                         print(data)
+                        return data
                     else:
                         logger.error(
                             f'Erro ao acessar a API {base_url}: {response.status}')
